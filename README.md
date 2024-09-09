@@ -7,4 +7,4 @@
         fillColor: .gray.opacity(0.5)
     )
 
-https://github.com/gustavocosme/signatureview-swiftui/blob/main/videos/AnimatedSignatureView%20-%20horizontal.png
+![alt text](https://github.com/gustavocosme/signatureview-swiftui/blob/main/videos/AnimatedSignatureView%20-%20horizontal.png)
