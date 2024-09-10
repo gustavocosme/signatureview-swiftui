@@ -2,6 +2,8 @@
 
 AnimatedSignatureView
 
+![alt text](https://github.com/gustavocosme/signatureview-swiftui/blob/main/gif.gif)
+
 AnimatedSignatureView é uma View em SwiftUI que anima o desenho de um texto como uma assinatura com opções de customização para cor, fonte, e animações de preenchimento e desaparecimento.
 
 # Propriedades
@@ -56,7 +58,6 @@ AnimatedSignatureView é uma View em SwiftUI que anima o desenho de um texto com
         }
     }
 
-![alt text](https://github.com/gustavocosme/signatureview-swiftui/blob/main/gif.gif)
 
 
 
